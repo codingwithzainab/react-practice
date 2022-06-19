@@ -1,0 +1,9 @@
+.child2{
+    background-color: aliceblue;
+}
+.child2 button {
+    color:black;
+    background-color: white ;
+    padding: 7px 13px;
+    border-radius: 12px;
+}

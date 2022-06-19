@@ -1,0 +1,17 @@
+.child h1{ 
+   text-align: center;
+   color: green
+}
+
+.child {
+    background-color: antiquewhite;
+}
+.child button {
+    color:black;
+    background-color: white ;
+    padding: 7px 13px;
+    border-radius: 12px;  
+}
+
+    
+
